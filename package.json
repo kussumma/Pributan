@@ -1,0 +1,43 @@
+{
+	"name": "pributan",
+	"displayName": "Pributan",
+	"description": "This theme is brought for you who like simplicity, cool, and stay focused",
+	"version": "1.2.0",
+	"publisher": "Kusuma",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/pributan/Pributan"
+	},
+	"keywords": [
+		"theme",
+		"onedark",
+		"one-dark",
+		"one dark",
+		"onedarkpro",
+		"one-dark-pro",
+		"one dark pro",
+		"pributan",
+		"border",
+		"focus"
+	],
+	"engines": {
+		"vscode": "^1.40.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Pributan",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Pributan.json"
+			}
+		]
+	},
+	"icon": "coffee.jpg",
+	"galleryBanner": {
+		"color": "#2d323b",
+		"theme": "dark"
+	}
+}
