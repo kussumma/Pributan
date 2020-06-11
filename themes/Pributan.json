@@ -71,7 +71,7 @@
     "editorIndentGuide.activeBackground": "#00000000",
     "editorIndentGuide.background": "#00000000",
     "editorRuler.foreground": "#00000000",
-    "focusBorder": "#528bff",
+    "focusBorder": "#00000000",
     "input.background": "#181a1f",
     "list.activeSelectionBackground": "#2c313a",
     "list.activeSelectionForeground": "#dcdcdc",
