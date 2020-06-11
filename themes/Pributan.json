@@ -1,6 +1,6 @@
 {
   "colors": {
-    "foreground": "#9da5b4",
+    "foreground": "#abb2bf",
     "activityBar.background": "#21252b",
     "activityBar.foreground": "#d7dae0",
     "activityBar.border": "#181a1f",
@@ -176,10 +176,10 @@
     {
       "name": "meta.brace.square",
       "scope": [
-        " meta.brace.square"
+        "meta.brace.square"
       ],
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#c678dd"
       }
     },
     {
@@ -737,7 +737,7 @@
       "name": "brace function",
       "scope": "function.brace",
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#c678dd"
       }
     },
     {
