@@ -179,7 +179,7 @@
         "meta.brace.square"
       ],
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#abb2bf"
       }
     },
     {
@@ -737,7 +737,7 @@
       "name": "brace function",
       "scope": "function.brace",
       "settings": {
-        "foreground": "#c678dd"
+        "foreground": "#abb2bf"
       }
     },
     {
@@ -1231,6 +1231,17 @@
       "scope": "meta.tag",
       "settings": {
         "foreground": "#abb2bf"
+      }
+    },
+    {
+      "name": "Tag start/end",
+      "scope": [
+        "punctuation.definition.tag.end",
+        "punctuation.definition.tag.begin",
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#c678dd"
       }
     },
     {
