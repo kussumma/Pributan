@@ -5,14 +5,13 @@ This theme is based on One Dark Pro for Visual Studio Code. There are several ch
 #### Added:
 * border
 * color hover on the text (on the side bar and on the tab bar)
-* The editor background color is darker
+* darker editor background
 * Color sidebar, activitybar, titlebar, statusbar, titlebar become one color
 
 #### Removed:
 * scrollbar shadow
 * highlight line
 * indent guide (in the sidebar / tree and in the editor)
-* bracket matching
 
 > This theme is brought for you who like simplicity, cool, and stay focused
 
