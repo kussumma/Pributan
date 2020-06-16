@@ -20,7 +20,7 @@
     "editor.foreground": "#abb2bf",
     "editor.selectionBackground": "#515a6b",
     "editor.selectionHighlightBackground": "#00000000",
-    "editor.wordHighlightBackground": "#00000000",
+    "editor.wordHighlightBackground": "#515a6b",
     "editor.wordHighlightStrongBackground": "#00000000",
     "editor.lineHighlightBorder": "#00000000",
     "editor.lineHighlightBackground": "#00000000",
