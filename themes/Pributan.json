@@ -58,6 +58,8 @@
     "focusBorder": "#00000000",
     "input.background": "#22262D",
     "input.border": "#3b4048",
+    "inputOption.activeBorder": "#3b4048",
+    "inputOption.activeBackground": "#3b4048",
 
     "list.hoverForeground": "#dcdcdc",
     "list.hoverBackground": "#323842",
@@ -89,7 +91,8 @@
     "statusBar.foreground": "#9da5b4",
     "statusBar.background": "#282c34",
     "statusBar.border": "#181a1f",
-    "statusBar.noFolderBackground": "#21252b",
+    "statusBar.noFolderBackground": "#22262D",
+    "statusBarItem.activeBackground": "#00000000",
     "statusBarItem.hoverBackground": "#00000000",
     "statusBarItem.remoteBackground": "#4d78cc",
     "statusBarItem.remoteForeground": "#f8fafd",
