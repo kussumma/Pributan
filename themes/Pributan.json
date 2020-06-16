@@ -15,10 +15,10 @@
     "dropdown.background": "#22262D",
     "dropdown.border": "#3b4048",
 
-    "editor.findMatchBackground": "#00000000",
+    "editor.findMatchBackground": "#515a6b",
     "editor.findMatchHighlightBackground": "#00000000",
     "editor.foreground": "#abb2bf",
-    "editor.selectionBackground": "#67769660",
+    "editor.selectionBackground": "#515a6b",
     "editor.selectionHighlightBackground": "#00000000",
     "editor.wordHighlightBackground": "#00000000",
     "editor.wordHighlightStrongBackground": "#00000000",
