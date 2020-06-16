@@ -6,6 +6,7 @@
     "activityBar.inactiveForeground": "#9da5b4",
     "activityBarBadge.background": "#4d78cc",
     "activityBarBadge.foreground": "#f8fafd",
+    "activityBar.activeBorder": "#00000000",
 
     "badge.background": "#282c34",
     "button.background": "#404754",
@@ -1179,7 +1180,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#c678dd"
       }
     },
     {
