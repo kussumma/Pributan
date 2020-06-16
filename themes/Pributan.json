@@ -1,5 +1,9 @@
 {
   "colors": {
+    "scrollbar.shadow": "#00000000",
+    "tab.inactiveBackground": "#282c34",
+    "tab.unfocusedHoverBackground": "#323842",
+    "editor.lineHighlightBorder": "#00000000",
     "editor.lineHighlightBackground": "#00000000",
     "editorGroupHeader.tabsBackground": "#21252b",
     "titleBar.activeBackground": "#282c34",
@@ -20,8 +24,7 @@
     "editor.background": "#191d23",
     "sideBar.background": "#282c34",
     "statusBar.background": "#282c34",
-    "tab.inactiveBackground": "#282c34",
-    "tab.unfocusedHoverBackground": "#323842",
+    "statusBar.border": "#181a1f",
     "activityBar.inactiveForeground": "#9da5b4",
     "tab.inactiveForeground": "#9da5b4",
     "activityBar.background": "#282c34",
@@ -86,7 +89,7 @@
     "statusBarItem.hoverBackground": "#2c313a",
     "statusBarItem.remoteBackground": "#4d78cc",
     "statusBarItem.remoteForeground": "#f8fafd",
-    "tab.activeBackground": "#282c34",
+    "tab.activeBackground": "#323842",
     "tab.activeForeground": "#dcdcdc",
     "tab.border": "#181a1f",
     "tab.hoverBackground": "#323842",
@@ -109,7 +112,7 @@
     "terminal.background": "#282c34",
     "terminal.foreground": "#abb2bf",
     "terminal.selectionBackground": "#abb2bf30",
-    "textLink.foreground": "#61afef",
+    "textLink.foreground": "#61afef"
   },
   "name": "Pributan",
   "semanticHighlighting": true,
