@@ -9,10 +9,10 @@
 
     "badge.background": "#282c34",
     "button.background": "#404754",
-    "debugToolBar.background": "#21252b",
+    "debugToolBar.background": "#22262D",
     "diffEditor.insertedTextBackground": "#00809b33",
-    "dropdown.background": "#21252b",
-    "dropdown.border": "#21252b",
+    "dropdown.background": "#22262D",
+    "dropdown.border": "#3b4048",
 
     "editor.findMatchBackground": "#00000000",
     "editor.findMatchHighlightBackground": "#00000000",
