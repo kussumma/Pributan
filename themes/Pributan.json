@@ -66,7 +66,7 @@
     "list.inactiveSelectionForeground": "#dcdcdc",
     "list.warningForeground": "#d19a66",
 
-    "menu.foreground": "#c8c8c8",
+    "menu.foreground": "#9da5b4",
     "peekViewEditor.background": "#1b1d23",
     "peekViewEditor.matchHighlightBackground": "#29244b",
     "peekViewResult.background": "#22262b",
@@ -78,7 +78,7 @@
     "sideBar.background": "#282c34",
     "sideBar.border": "#181a1f",
     "sideBar.foreground": "#9da5b4",
-    "sideBarSectionHeader.background": "#323842",
+    "sideBarSectionHeader.background": "#282c34",
 
     "statusBar.debuggingBackground": "#cc6633",
     "statusBar.debuggingBorder": "#66017a",
