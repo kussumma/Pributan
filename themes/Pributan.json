@@ -27,7 +27,7 @@
     "editor.wordHighlightBorder": "#00000000",
     "editor.selectionHighlightBorder": "#00000000",
     "editor.findMatchBorder": "#00000000",
-    "editor.background": "#191d23",
+    "editor.background": "#222832",
     
     "editorGroupHeader.tabsBorder": "#181a1f",
     "editorGroupHeader.tabsBackground": "#282c34",
@@ -56,7 +56,7 @@
     "foreground": "#9da5b4",
 
     "focusBorder": "#00000000",
-    "input.background": "#1d1f23",
+    "input.background": "#222832",
 
     "list.hoverForeground": "#dcdcdc",
     "list.hoverBackground": "#323842",
@@ -119,7 +119,7 @@
     "terminal.ansiRed": "#e05561",
     "terminal.ansiWhite": "#e6e6e6",
     "terminal.ansiYellow": "#d18f52",
-    "terminal.background": "#282c34",
+    "terminal.background": "#222832",
     "terminal.foreground": "#abb2bf",
     "terminal.selectionBackground": "#abb2bf30",
     "textLink.foreground": "#61afef",
