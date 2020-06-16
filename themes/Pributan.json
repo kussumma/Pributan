@@ -53,6 +53,8 @@
     "editorWhitespace.foreground": "#3b4048",
     "editorWidget.background": "#21252b",
 
+    "foreground": "#9da5b4",
+
     "focusBorder": "#00000000",
     "input.background": "#1d1f23",
 
@@ -66,7 +68,7 @@
     "list.inactiveSelectionForeground": "#dcdcdc",
     "list.warningForeground": "#d19a66",
 
-    "menu.foreground": "#9da5b4",
+    "menu.foreground": "#dcdcdc",
     "peekViewEditor.background": "#1b1d23",
     "peekViewEditor.matchHighlightBackground": "#29244b",
     "peekViewResult.background": "#22262b",
