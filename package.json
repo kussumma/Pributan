@@ -2,7 +2,7 @@
 	"name": "pributan",
 	"displayName": "Pributan",
 	"description": "My personal taste of One Dark Pro",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"publisher": "Kusuma",
 	"repository": {
 		"type": "git",
@@ -35,7 +35,7 @@
 			}
 		]
 	},
-	"icon": "coffee.jpg",
+	"icon": "pributan.png",
 	"galleryBanner": {
 		"color": "#2d323b",
 		"theme": "dark"
