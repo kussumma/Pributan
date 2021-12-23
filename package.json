@@ -1,12 +1,12 @@
 {
 	"name": "pributan",
 	"displayName": "Pributan",
-	"description": "My personal taste of One Dark Pro",
-	"version": "1.0.4",
-	"publisher": "Kusuma",
+	"description": "Focus One Dark Pro",
+	"version": "1.0.5",
+	"publisher": "sensnerd",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/pributan/Pributan"
+		"url": "https://github.com/sensnerd/Pributan"
 	},
 	"keywords": [
 		"theme",
@@ -18,7 +18,9 @@
 		"one dark pro",
 		"pributan",
 		"border",
-		"focus"
+		"focus",
+        "github",
+        "github-theme"
 	],
 	"engines": {
 		"vscode": "^1.40.0"

@@ -1,6 +1,6 @@
 # Pributan
 
-This theme is based on One Dark Pro for Visual Studio Code. There are several changes that I have made, which are as follows:
+This theme is based on One Dark Pro for Visual Studio Code. A few changes are listed as follows:
 
 #### Added:
 
@@ -18,13 +18,14 @@ This theme is based on One Dark Pro for Visual Studio Code. There are several ch
 -   bracket match
 -   findmatch
 -   indent guide (sidebar)
+-   other shadows
 -   etc.
 
-> This theme is brought for you who like simplicity, cool, and stay focused
+> Simple, cool and stay focus !
 
-![screenshot1](https://raw.githubusercontent.com/pributan/Pributan/master/image/screenshot-min.png)
+![screenshot1](https://raw.githubusercontent.com/sensnerd/Pributan/master/image/screenshot-min.png)
 
-![screenshot2](https://raw.githubusercontent.com/pributan/Pributan/master/image/screenshot.png)
+![screenshot2](https://raw.githubusercontent.com/sensnerd/Pributan/master/image/screenshot.png)
 
 ### One Dark Pro
 

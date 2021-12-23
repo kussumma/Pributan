@@ -7,14 +7,12 @@
 		"activityBarBadge.background": "#4d78cc",
 		"activityBarBadge.foreground": "#f8fafd",
 		"activityBar.activeBorder": "#00000000",
-
 		"badge.background": "#282c34",
 		"button.background": "#404754",
 		"debugToolBar.background": "#22262D",
 		"diffEditor.insertedTextBackground": "#00809b33",
 		"dropdown.background": "#22262D",
 		"dropdown.border": "#3b4048",
-
 		"editor.findMatchBackground": "#00000000",
 		"editor.findMatchHighlightBackground": "#00000000",
 		"editor.foreground": "#abb2bf",
@@ -29,7 +27,6 @@
 		"editor.selectionHighlightBorder": "#00000000",
 		"editor.findMatchBorder": "#00000000",
 		"editor.background": "#22262D",
-
 		"editorGroupHeader.tabsBorder": "#181a1f",
 		"editorGroupHeader.tabsBackground": "#282c34",
 		"editorActiveLineNumber.foreground": "#737984",
@@ -53,15 +50,12 @@
 		"editorWarning.foreground": "#d19a66",
 		"editorWhitespace.foreground": "#3b4048",
 		"editorWidget.background": "#22262D",
-
 		"foreground": "#9da5b4",
-
 		"focusBorder": "#00000000",
 		"input.background": "#22262D",
 		"input.border": "#3b4048",
 		"inputOption.activeBorder": "#3b4048",
 		"inputOption.activeBackground": "#3b4048",
-
 		"list.hoverForeground": "#dcdcdc",
 		"list.hoverBackground": "#323842",
 		"list.activeSelectionBackground": "#323842",
@@ -71,7 +65,6 @@
 		"list.inactiveSelectionBackground": "#323842",
 		"list.inactiveSelectionForeground": "#dcdcdc",
 		"list.warningForeground": "#d19a66",
-
 		"menu.foreground": "#dcdcdc",
 		"peekViewEditor.background": "#1b1d23",
 		"peekViewEditor.matchHighlightBackground": "#29244b",
@@ -80,12 +73,10 @@
 		"scrollbarSlider.background": "#4e566660",
 		"scrollbarSlider.hoverBackground": "#5a637580",
 		"scrollbar.shadow": "#00000000",
-
 		"sideBar.background": "#282c34",
 		"sideBar.border": "#181a1f",
 		"sideBar.foreground": "#9da5b4",
 		"sideBarSectionHeader.background": "#282c34",
-
 		"statusBar.debuggingBackground": "#282c34",
 		"statusBar.debuggingBorder": "#66017a",
 		"statusBar.debuggingForeground": "#ffffff",
@@ -97,7 +88,6 @@
 		"statusBarItem.hoverBackground": "#00000000",
 		"statusBarItem.remoteBackground": "#4d78cc",
 		"statusBarItem.remoteForeground": "#f8fafd",
-
 		"tab.activeBackground": "#323842",
 		"tab.activeForeground": "#dcdcdc",
 		"tab.inactiveForeground": "#9da5b4",
@@ -106,7 +96,6 @@
 		"tab.hoverForeground": "#dcdcdc",
 		"tab.inactiveBackground": "#282c34",
 		"tab.unfocusedHoverBackground": "#323842",
-
 		"terminal.border": "#181a1f",
 		"terminal.ansiBlack": "#3f4451",
 		"terminal.ansiBlue": "#4aa5f0",
@@ -128,7 +117,6 @@
 		"terminal.foreground": "#abb2bf",
 		"terminal.selectionBackground": "#abb2bf30",
 		"textLink.foreground": "#61afef",
-
 		"titleBar.border": "#181a1f",
 		"titleBar.activeBackground": "#282c34",
 		"titleBar.activeForeground": "#9da5b4",
