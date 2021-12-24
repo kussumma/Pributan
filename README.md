@@ -1,5 +1,7 @@
 # Pributan
 
+<i>Pributan in Balinese (Nusa Penida language) is mean early morning (about 4 - 5 AM). </i>
+
 This theme is based on One Dark Pro for Visual Studio Code. A few changes are listed as follows:
 
 #### Added:
@@ -20,6 +22,13 @@ This theme is based on One Dark Pro for Visual Studio Code. A few changes are li
 -   indent guide (sidebar)
 -   other shadows
 -   etc.
+
+#### Todo:
+-   Update the color scheme of One Dark Pro
+-   Update the UI colour
+-   Update the line match colour to be softer
+-   Enable highlight matching tag, but with softer colour (no line)
+-   Implement bracket matching colour (no line)
 
 > Simple, cool and stay focus !
 
