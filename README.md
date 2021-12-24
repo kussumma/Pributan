@@ -29,6 +29,7 @@ This theme is based on One Dark Pro for Visual Studio Code. A few changes are li
 -   Update the line match colour to be softer
 -   Enable highlight matching tag, but with softer colour (no line)
 -   Implement bracket matching colour (no line)
+-   Update screenshot
 
 > Simple, cool and stay focus !
 
