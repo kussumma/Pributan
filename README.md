@@ -2,6 +2,7 @@
 
 [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/sensnerd.pributan.svg)](https://marketplace.visualstudio.com/items?itemName=sensnerd.pributan)
 [![Badge for installs for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/installs/sensnerd.pributan.svg)](https://marketplace.visualstudio.com/items?itemName=sensnerd.pributan)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/sensnserd/pributan/blob/master/LICENSE)
 
 <i>Pributan in Balinese (Nusa Penida language) is mean early morning (about 4 - 5 AM). </i>
 
