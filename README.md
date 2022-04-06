@@ -4,8 +4,6 @@
 [![Badge for installs for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/installs/sensnerd.pributan.svg)](https://marketplace.visualstudio.com/items?itemName=sensnerd.pributan)
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/sensnserd/pributan/blob/master/LICENSE)
 
-<i>Pributan in Balinese (Nusa Penida language) is mean early morning (about 4 - 5 AM). </i>
-
 This theme is based on One Dark Pro for Visual Studio Code. A few changes are listed as follows:
 
 #### Added:
@@ -21,7 +19,6 @@ This theme is based on One Dark Pro for Visual Studio Code. A few changes are li
 
 -   scrollbar shadow
 -   highlight line
--   bracket match
 -   findmatch
 -   indent guide (sidebar)
 -   other shadows
