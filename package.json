@@ -3,10 +3,10 @@
 	"displayName": "Pributan",
 	"description": "Focus One Dark Pro",
 	"version": "1.0.5",
-	"publisher": "sensnerd",
+	"publisher": "greveill",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/sensnerd/Pributan"
+		"url": "https://github.com/greveill/Pributan"
 	},
 	"keywords": [
 		"theme",
