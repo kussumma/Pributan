@@ -2,7 +2,7 @@
 
 [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/sensnerd.pributan.svg)](https://marketplace.visualstudio.com/items?itemName=sensnerd.pributan)
 [![Badge for installs for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/installs/sensnerd.pributan.svg)](https://marketplace.visualstudio.com/items?itemName=sensnerd.pributan)
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/sensnserd/pributan/blob/master/LICENSE)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/peakyran/pributan/blob/master/LICENSE)
 
 This theme is based on One Dark Pro for Visual Studio Code. A few changes are listed as follows:
 
@@ -34,9 +34,9 @@ This theme is based on One Dark Pro for Visual Studio Code. A few changes are li
 
 > Simple, cool and stay focus !
 
-![screenshot1](https://raw.githubusercontent.com/sensnerd/Pributan/master/image/screenshot-min.png)
+![screenshot1](https://raw.githubusercontent.com/peakyran/Pributan/master/image/screenshot-min.png)
 
-![screenshot2](https://raw.githubusercontent.com/sensnerd/Pributan/master/image/screenshot.png)
+![screenshot2](https://raw.githubusercontent.com/peakyran/Pributan/master/image/screenshot.png)
 
 ### One Dark Pro
 
