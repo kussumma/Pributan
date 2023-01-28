@@ -1,8 +1,7 @@
 # Pributan
 
-[![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/sensnerd.pributan.svg)](https://marketplace.visualstudio.com/items?itemName=sensnerd.pributan)
-[![Badge for installs for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/installs/sensnerd.pributan.svg)](https://marketplace.visualstudio.com/items?itemName=sensnerd.pributan)
-[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/peakyran/pributan/blob/master/LICENSE)
+![Pributan version](https://badgen.net/vs-marketplace/v/sensnerd.pributan)
+![Pributan version](https://badgen.net/vs-marketplace/i/sensnerd.pributan)
 
 This theme is based on One Dark Pro for Visual Studio Code. A few changes are listed as follows:
 
